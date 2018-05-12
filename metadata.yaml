@@ -1,4 +1,8 @@
 _repo: Oeuvres-completes-de-Guy-de-Maupassant-V-5_50144
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50144-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50144#Oeuvres-completes-de-Guy-de-Maupassant-V-5
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
